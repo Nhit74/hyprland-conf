@@ -1,5 +1,11 @@
 This is my main hyprland config based on purple-themed interface.  
 
+## Preview
+![Hyprland window preview](previews/prev.png)
+
+![Hyprland desktop preview](previews/prevWallpaper.png)
+
+
 ## Programs used
 
  - Hyprland
