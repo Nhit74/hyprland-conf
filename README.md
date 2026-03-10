@@ -12,8 +12,7 @@ This is my main hyprland config based on purple-themed interface.
  - Hyprlock
  - Waybar
  - Kitty
- - Wofi
-
+ - Rofi
 
 ## KeyBindings
     
