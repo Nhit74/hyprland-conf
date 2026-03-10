@@ -6,7 +6,7 @@ This is my main hyprland config based on purple-themed interface.
 ![Hyprland desktop preview](previews/prevWallpaper.png)
 
 
-## Programs used
+## Software used
 
  - Hyprland
  - Hyprlock
